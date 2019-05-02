@@ -40,8 +40,7 @@ I'm using **Visual Studio Community 2017** for the development tools on Windows 
 I'm using **.Net Core 2.2**
 
 
-# Supported by CodeRush.Co
-[CodeRush.CO] source code collections (https://coderush.co) lot of open source cool apps there. 50% Off All Products, Use Discount Code **GITHUB50**
+
 
 
 
